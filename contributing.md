@@ -156,3 +156,5 @@ Use the button in the Quick Start section.
 ---
 
 *GTA 5 Online · Updated 2026-10-27 · Shared under the MIT License*
+
+<!-- last reviewed 2026-10-27 -->
